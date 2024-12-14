@@ -1,0 +1,102 @@
+[
+    {
+        "nombre": "Usuario1",
+        "id_usuario": 1,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario2",
+        "id_usuario": 2,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario3",
+        "id_usuario": 3,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario4",
+        "id_usuario": 4,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario5",
+        "id_usuario": 5,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario6",
+        "id_usuario": 6,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario7",
+        "id_usuario": 7,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario8",
+        "id_usuario": 8,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario9",
+        "id_usuario": 9,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario10",
+        "id_usuario": 10,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario11",
+        "id_usuario": 11,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario12",
+        "id_usuario": 12,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario13",
+        "id_usuario": 13,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario14",
+        "id_usuario": 14,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario15",
+        "id_usuario": 15,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario16",
+        "id_usuario": 16,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario17",
+        "id_usuario": 17,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario18",
+        "id_usuario": 18,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario19",
+        "id_usuario": 19,
+        "libros_prestados": []
+    },
+    {
+        "nombre": "Usuario20",
+        "id_usuario": 20,
+        "libros_prestados": []
+    }
+]

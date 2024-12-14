@@ -1,0 +1,404 @@
+{
+  "libros": [
+    {
+      "consecutivo": 1,
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "anio_publicacion": 1967,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 2,
+      "titulo": "El señor de los anillos",
+      "autor": "J.R.R. Tolkien",
+      "anio_publicacion": 1954,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 3,
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "anio_publicacion": 1605,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 4,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "anio_publicacion": 1949,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 5,
+      "titulo": "El principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "anio_publicacion": 1943,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 6,
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "anio_publicacion": 1963,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 7,
+      "titulo": "La casa de los espíritus",
+      "autor": "Isabel Allende",
+      "anio_publicacion": 1982,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 8,
+      "titulo": "El código Da Vinci",
+      "autor": "Dan Brown",
+      "anio_publicacion": 2003,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 9,
+      "titulo": "El nombre de la rosa",
+      "autor": "Umberto Eco",
+      "anio_publicacion": 1980,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 10,
+      "titulo": "Ficciones",
+      "autor": "Jorge Luis Borges",
+      "anio_publicacion": 1944,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 11,
+      "titulo": "Los juegos del hambre",
+      "autor": "Suzanne Collins",
+      "anio_publicacion": 2008,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 12,
+      "titulo": "El perfume",
+      "autor": "Patrick Süskind",
+      "anio_publicacion": 1985,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 13,
+      "titulo": "La sombra del viento",
+      "autor": "Carlos Ruiz Zafón",
+      "anio_publicacion": 2001,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 14,
+      "titulo": "Crimen y castigo",
+      "autor": "Fiódor Dostoyevski",
+      "anio_publicacion": 1866,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 15,
+      "titulo": "El hobbit",
+      "autor": "J.R.R. Tolkien",
+      "anio_publicacion": 1937,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 16,
+      "titulo": "Los pilares de la Tierra",
+      "autor": "Ken Follett",
+      "anio_publicacion": 1989,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 17,
+      "titulo": "El alquimista",
+      "autor": "Paulo Coelho",
+      "anio_publicacion": 1988,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 18,
+      "titulo": "Fahrenheit 451",
+      "autor": "Ray Bradbury",
+      "anio_publicacion": 1953,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 19,
+      "titulo": "El amor en los tiempos del cólera",
+      "autor": "Gabriel García Márquez",
+      "anio_publicacion": 1985,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 20,
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "anio_publicacion": 1897,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 21,
+      "titulo": "Mujercitas",
+      "autor": "Louisa May Alcott",
+      "anio_publicacion": 1868,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 22,
+      "titulo": "El gran Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "anio_publicacion": 1925,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 23,
+      "titulo": "Ulises",
+      "autor": "James Joyce",
+      "anio_publicacion": 1922,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 24,
+      "titulo": "La metamorfosis",
+      "autor": "Franz Kafka",
+      "anio_publicacion": 1915,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 25,
+      "titulo": "El retrato de Dorian Gray",
+      "autor": "Oscar Wilde",
+      "anio_publicacion": 1890,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 26,
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "anio_publicacion": 1813,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 27,
+      "titulo": "El guardián entre el centeno",
+      "autor": "J.D. Salinger",
+      "anio_publicacion": 1951,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 28,
+      "titulo": "Las crónicas de Narnia",
+      "autor": "C.S. Lewis",
+      "anio_publicacion": 1950,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 29,
+      "titulo": "El señor de las moscas",
+      "autor": "William Golding",
+      "anio_publicacion": 1954,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 30,
+      "titulo": "La Odisea",
+      "autor": "Homero",
+      "anio_publicacion": -800,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 31,
+      "titulo": "Romeo y Julieta",
+      "autor": "William Shakespeare",
+      "anio_publicacion": 1597,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 32,
+      "titulo": "La Divina Comedia",
+      "autor": "Dante Alighieri",
+      "anio_publicacion": 1320,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 33,
+      "titulo": "El viejo y el mar",
+      "autor": "Ernest Hemingway",
+      "anio_publicacion": 1952,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 34,
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "anio_publicacion": 1818,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 35,
+      "titulo": "Los tres mosqueteros",
+      "autor": "Alexandre Dumas",
+      "anio_publicacion": 1844,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 36,
+      "titulo": "Anna Karenina",
+      "autor": "León Tolstói",
+      "anio_publicacion": 1877,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 37,
+      "titulo": "Las aventuras de Tom Sawyer",
+      "autor": "Mark Twain",
+      "anio_publicacion": 1876,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 38,
+      "titulo": "Moby Dick",
+      "autor": "Herman Melville",
+      "anio_publicacion": 1851,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 39,
+      "titulo": "Los miserables",
+      "autor": "Victor Hugo",
+      "anio_publicacion": 1862,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 40,
+      "titulo": "El lobo estepario",
+      "autor": "Hermann Hesse",
+      "anio_publicacion": 1927,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 41,
+      "titulo": "La náusea",
+      "autor": "Jean-Paul Sartre",
+      "anio_publicacion": 1938,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 42,
+      "titulo": "Pedro Páramo",
+      "autor": "Juan Rulfo",
+      "anio_publicacion": 1955,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 43,
+      "titulo": "El túnel",
+      "autor": "Ernesto Sabato",
+      "anio_publicacion": 1948,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 44,
+      "titulo": "La ciudad y los perros",
+      "autor": "Mario Vargas Llosa",
+      "anio_publicacion": 1963,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 45,
+      "titulo": "El extranjero",
+      "autor": "Albert Camus",
+      "anio_publicacion": 1942,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 46,
+      "titulo": "La insoportable levedad del ser",
+      "autor": "Milan Kundera",
+      "anio_publicacion": 1984,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 47,
+      "titulo": "El proceso",
+      "autor": "Franz Kafka",
+      "anio_publicacion": 1925,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 48,
+      "titulo": "La isla del tesoro",
+      "autor": "Robert Louis Stevenson",
+      "anio_publicacion": 1883,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 49,
+      "titulo": "Las uvas de la ira",
+      "autor": "John Steinbeck",
+      "anio_publicacion": 1939,
+      "disponible": true,
+      "numero_de_volumen": 1
+    },
+    {
+      "consecutivo": 50,
+      "titulo": "El Principito",
+      "autor": "Antoine de Saint-Exupéry",
+      "anio_publicacion": 1943,
+      "disponible": true,
+      "numero_de_volumen": 2
+    }
+  ]
+}
